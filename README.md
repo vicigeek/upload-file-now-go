@@ -44,4 +44,4 @@ A modern and minimal **file uploader written in Go**, styled with **IBM Carbon D
 ```bash
 git clone https://github.com/vicigeek/upload-file-now-go.git
 cd upload-file-now-go
-go run main.go
+go run uploader.go
